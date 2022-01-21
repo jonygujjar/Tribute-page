@@ -1,0 +1,13 @@
+#title{
+	text-align: center;
+}
+#tribute-list li{
+	list-style-type: disc;
+}
+#img-div{
+	text-align: center;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
